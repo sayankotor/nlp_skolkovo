@@ -1,0 +1,4 @@
+Using LSTM based language model to classify the comments, but also using ELMo and ULMfit. 
+Using Pytorch.
+
+pretrained ELMo and LSTMs line in the seminar
